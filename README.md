@@ -22,8 +22,6 @@ I've been working with technology since 2012, and during this time I worked with
 
 ## Tech Tools
 
-
-
 - JavaScript <img width="12" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="Javascript" />&nbsp;
 - ReactJs <img width="12" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="React.js" />&nbsp;
 - Node.js <img width="12" src="https://w7.pngwing.com/pngs/477/472/png-transparent-node-js-javascript-react-logo-express-js-javascript-logo-text-trademark-rectangle-thumbnail.png" alt="Node.js" />&nbsp;
@@ -34,6 +32,22 @@ I've been working with technology since 2012, and during this time I worked with
 - CSS3 <img width="12" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" alt="CSS3" />&nbsp;
 - Gulp <img width="12" src="https://spng.subpng.com/20180616/up/kisspng-gulp-js-npm-grunt-node-js-javascript-gulp-5b25612b5eb404.5000306615291763633879.jpg" alt="Gulp" />&nbsp;
 - VS Code <img width="12" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS_Code" />&nbsp;
+
+
+## My Open Source Projects
+
+| Responsive Web Design     |  URL        |
+| ------------------------- | ----------- |
+| Social media website using html,css,js       | <a href="https://mistersakil.github.io/social-media-website-using-html-css-js/" target="_blank">Demo</a>       |
+| Grocery Landing Page Using HTML,CSS,JS       | <a href="https://mistersakil.github.io/grocery-landing-page-using-html-css-js/" target="_blank">Demo</a>       |
+| Fast Food Restaurant using html,css,js      | <a href="https://mistersakil.github.io/fast-food-restaurant-using-html-css-js/" target="_blank">Demo</a>       |
+| Call center solution using html,css,js       | <a href="https://mistersakil.github.io/call-center-solution-using-html-css-js-by-octapia/" target="_blank">Demo</a>       |
+
+
+| Mini Projects    |  URL        |
+| ---------------- | ----------- |
+| Testimonial slider using html css javascript      | <a href="https://mistersakil.github.io/testimonial-slider-using-html-css-js/" target="_blank">Demo</a>       |
+
 
 ---
 
