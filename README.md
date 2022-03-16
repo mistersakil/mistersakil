@@ -1,40 +1,17 @@
-<img src="https://scontent.fbzl1-1.fna.fbcdn.net/v/t1.18169-9/27336280_1933319993652494_4790925764301392007_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEnFGsLr9y-fHhJMOSVSTccwcqQs9zigVnBypCz3OKBWW9NVMJg8LO2c_Kts2gF6P4Q9ZH1zrC3oNj0PNYrSEdq&_nc_ohc=h3YEfs7Aq1MAX8hCZV3&_nc_ht=scontent.fbzl1-1.fna&oh=f72a5ef5b14a4039907b4109f8ce1174&oe=61722393" alt="Sakil Jomadder" height="300"/>
+<img src="https://my.bdjobs.com/photos/1925001-1950000/781948375b1v2y.jpg?var=163202213" alt="Md. Sakil Mahmud" height="300" align="center" />
 
-# As-salamu alaykum as well as "Peace be upon you"
+# May Peace be upon you
 
-<p>Hi, This is Sakil Jomadder. I'm professional web designer and developer at <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> & <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong>
+<p>Hi, This is Sakil Mahmud. I'm professional web designer and developer at <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> & <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong>
 
-I've been working with technology since 2012, and during this time I worked with the most diverse types of projects like: Inventory Management, E-commerce, Dynamic Websites Design and Development. I have 4+ years of professional experience also.
-
-
-<br>
-
-## About me
-
-- <img width="16" src="https://image.flaticon.com/icons/png/512/940/940231.png" alt="Bangladesh" /> I'm from Bangladesh
-- <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
-- <img width="16" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="" /> My favorite programming language is JavaScript
-- <img width="16" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-png-transparent-svg-vector-bie-supply-1.png" alt="" /> My loveable programming language is PHP
-- 👩‍🏫 Love web design and sharing knowledge 
-- 🏞️ Traveling is one of my favorite hobbies, <a href="https://en.wikipedia.org/wiki/St._Martin's_Island" target="_blank">St. Martin's Island</a> is one of the most beautiful places that I have ever been to
+I've been working with programming & web technology since 2012, and during this time I worked with the most diverse types of projects like: Inventory Management, E-commerce, Dynamic Websites Design and Development. I have 4+ years of professional experience also.
 
 <br>
 
-## Tech Tools
-
-- JavaScript <img width="12" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="Javascript" />&nbsp;
-- ReactJs <img width="12" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="React.js" />&nbsp;
-- Node.js <img width="12" src="https://w7.pngwing.com/pngs/477/472/png-transparent-node-js-javascript-react-logo-express-js-javascript-logo-text-trademark-rectangle-thumbnail.png" alt="Node.js" />&nbsp;
-- PHP <img width="12" src="https://cpng.pikpng.com/pngl/s/160-1603662_aol-logo-transparent-icone-php-png-clipart.png" alt="PHP" />&nbsp;
-- Laravel <img width="12" src="https://sujanbyanjankar.com.np/wp-content/uploads/2020/05/1200px-Laravel.svg_.png" alt="Laravel" />&nbsp;
-- Wordpress <img width="12" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/240px-WordPress_blue_logo.svg.png" alt="Wordpress" />&nbsp;
-- HTML5 <img width="12" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML5" />&nbsp;
-- CSS3 <img width="12" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" alt="CSS3" />&nbsp;
-- Gulp <img width="12" src="https://spng.subpng.com/20180616/up/kisspng-gulp-js-npm-grunt-node-js-javascript-gulp-5b25612b5eb404.5000306615291763633879.jpg" alt="Gulp" />&nbsp;
-- VS Code <img width="12" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS_Code" />&nbsp;
-
-
-## My Open Source Projects
+## Demo Links
+| Laravel Projects     |  URL        |
+| ------------------------- | ----------- |
+| Laravel Ecommerce       | <a href="https://tinyurl.com/2p9d45cf" target="_blank">Demo</a>       |
 
 | Responsive Web Design     |  URL        |
 | ------------------------- | ----------- |
@@ -47,6 +24,36 @@ I've been working with technology since 2012, and during this time I worked with
 | Mini Projects    |  URL        |
 | ---------------- | ----------- |
 | Testimonial slider using html css javascript      | <a href="https://mistersakil.github.io/testimonial-slider-using-html-css-js/" target="_blank">Demo</a>       |
+
+
+
+## About me
+
+- <img width="16" src="https://www.freepnglogos.com/uploads/download/download-clipart-bangladesh-flag-png-clip-art-best-web-clipart-16.png" alt="Bangladesh" /> I'm from Bangladesh
+- <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
+- <img width="24" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-nodejs-logo-27.png" alt="" /> My favorite programming language is JavaScript
+- <img width="16" src="https://www.freepnglogos.com/uploads/php-logo-png/php-logo-png-transparent-svg-vector-bie-supply-1.png" alt="" /> My loveable programming language is PHP
+- 👩‍🏫 Love web design and sharing knowledge 
+- 🏞️ Traveling is one of my favorite hobbies, <a href="https://en.wikipedia.org/wiki/St._Martin's_Island" target="_blank">St. Martin's Island</a> is one of the most beautiful places that I have ever been to
+
+<br>
+
+## Tech Tools
+
+
+- PHP <img width="12" src="https://cpng.pikpng.com/pngl/s/160-1603662_aol-logo-transparent-icone-php-png-clipart.png" alt="PHP" />&nbsp;
+- Laravel <img width="12" src="https://sujanbyanjankar.com.np/wp-content/uploads/2020/05/1200px-Laravel.svg_.png" alt="Laravel" />&nbsp;
+- Laravel Livewire <img src="https://scontent.fdac80-1.fna.fbcdn.net/v/t39.30808-6/275602450_3100823213568827_6788757190124452389_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=0debeb&_nc_eui2=AeFVS63GMLfTMIlD8Hnr0-suzq63I7U4t1POrrcjtTi3U4Ztv7ciD_hJNKStBaVi418KcJMT918Shd4I6Mn-CtfT&_nc_ohc=pwmOxVX-rLoAX80R1bx&_nc_ht=scontent.fdac80-1.fna&oh=00_AT9yhvGAQY7td4kHlx1Iz31GhiVA9auiXO8A7nyLHwoleQ&oe=6236075E" width="16" />&nbsp;
+- MySQL <img width="18" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png" alt="Laravel" />&nbsp;
+- JavaScript <img width="12" src="https://www.freepnglogos.com/uploads/javascript/javascript-online-logo-for-website-0.png" alt="Javascript" />&nbsp;
+- ReactJs <img width="12" src="https://w7.pngwing.com/pngs/18/497/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png" alt="React.js" />&nbsp;  
+- HTML5 <img width="12" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" alt="HTML5" />&nbsp;
+- CSS3 <img width="12" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" alt="CSS3" />&nbsp;
+- Gulp <img width="12" src="https://spng.subpng.com/20180616/up/kisspng-gulp-js-npm-grunt-node-js-javascript-gulp-5b25612b5eb404.5000306615291763633879.jpg" alt="Gulp" />&nbsp;
+- cPanel <img width="12" src="https://cdn-icons-png.flaticon.com/512/2848/2848929.png" alt="cPanel" />&nbsp;
+- Github <img width="12" src="https://www.freepnglogos.com/uploads/512x512-logo-png/512x512-logo-github-icon-35.png" alt="github" />&nbsp;
+- Trello <img width="12" src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" alt="Trello" />&nbsp;
+- VS Code <img width="12" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS_Code" />&nbsp;
 
 
 ---
@@ -70,13 +77,6 @@ I've been working with technology since 2012, and during this time I worked with
 <a href="https://www.linkedin.com/in/mistersakil">
   <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
 </a>
-<a href="mailto:mister.sakil.cse@gmail.com">
+<a href="mailto:sakil.diu.cse@gmail.com">
 <code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
 </a>
-
-<p align="center">
-  Se you!
-  <p align="center">    
-    <img src="https://scontent.fbzl1-1.fna.fbcdn.net/v/t31.18172-8/27983394_1936635986654228_3276177985088051114_o.jpg?_nc_cat=107&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGl5BE57ZwSD6eTKv860ZZBDFsL5uDFXmwMWwvm4MVebL36rm8R11cDxJnU__c4oKTosbk_Qqb7fySiwXpjNnFe&_nc_ohc=wfmHZf9txu8AX89jzvM&_nc_ht=scontent.fbzl1-1.fna&oh=7a7b7516539fa599a41c355f240a9e9b&oe=6143A7CC" title="This is how I feel when I am programming \o/" width="35%" />
-  </p>
-</p>
