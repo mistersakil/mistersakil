@@ -1,5 +1,3 @@
-<img src="https://my.bdjobs.com/photos/1925001-1950000/781948375b1v2y.jpg?var=163202213" alt="Md. Sakil Mahmud" height="300" align="center" />
-
 # May Peace be upon you
 
 <p>Hi, This is Sakil Mahmud. I'm professional web designer and developer at <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> & <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong>
