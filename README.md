@@ -1,12 +1,23 @@
-# May Peace be upon you
+## May Peace be upon you
 
-<p>Hi, This is Sakil Mahmud. I'm professional web designer and developer at <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> & <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong>
+###### `I'm Sakil Mahmud – Professional Web Designer and Developer`
 
-I've been working with programming & web technology since 2012, and during this time I worked with the most diverse types of projects like: Inventory Management, E-commerce, Dynamic Websites Design and Development. I have 4+ years of professional experience also.
+I am a seasoned web designer and developer with a strong presence on platforms like <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> and <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong> With professional experience dating back to 2016, I have honed my skills in programming and web technologies, delivering high-quality solutions for a wide range of projects.
+
+#### My Expertise Spans
+
+* <b>Inventory Management Systems:</b> Streamlining operations with efficient, user-friendly solutions.
+
+* <b>E-commerce Development:</b>  Building robust, scalable online stores that enhance user experience and drive sales.
+* <b>Dynamic Website Design and Development:</b>  Crafting visually appealing, interactive websites tailored to client needs.
+
+<blockquote>
+I am passionate about creating innovative solutions that meet and exceed client expectations, always striving to deliver exceptional results in every project.
+</blockquote>
 
 <br>
 
-## Demo Links
+#### Demo Links
 | Laravel Projects     |  URL        |
 | ------------------------- | ----------- |
 | Laravel Ecommerce       | <a href="https://tinyurl.com/2p9d45cf" target="_blank">Demo</a>       |
@@ -25,7 +36,7 @@ I've been working with programming & web technology since 2012, and during this 
 
 
 
-## About me
+#### About me
 
 - <img width="16" src="https://www.freepnglogos.com/uploads/download/download-clipart-bangladesh-flag-png-clip-art-best-web-clipart-16.png" alt="Bangladesh" /> I'm from Bangladesh
 - <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Love Programming
@@ -36,7 +47,7 @@ I've been working with programming & web technology since 2012, and during this 
 
 <br>
 
-## Tech Tools
+#### Tech Tools
 
 
 - PHP <img width="12" src="https://cpng.pikpng.com/pngl/s/160-1603662_aol-logo-transparent-icone-php-png-clipart.png" alt="PHP" />&nbsp;
@@ -55,10 +66,7 @@ I've been working with programming & web technology since 2012, and during this 
 
 
 ---
-
-<h1 align="center">
-  <i>Let's connect! Find me on...</i>
-</h1>  
+<h4 align="center">Find Me On</h4>  
 <p align="center">
 <a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">
   <code><img alt="My Upwork" width="32" src="https://shorturl.at/cjBkS" /></code>
@@ -79,7 +87,7 @@ I've been working with programming & web technology since 2012, and during this 
 <code><img alt="My e-mail" width="32" src="https://shorturl.at/akvBM" /></code>
 </a>
 
-
+</hr>
 
 <div align="center">
   <h3 style="color: red;">Profile Visitor</h3>
