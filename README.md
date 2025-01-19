@@ -5,10 +5,8 @@
 I am a seasoned web designer and developer with a strong presence on platforms like <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> and <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong> With professional experience dating back to 2016, I have honed my skills in programming and web technologies, delivering high-quality solutions for a wide range of projects.
 
 
-###  My Expertise Spans
-
-
-
+###  My Expertise Spans 
+***
 
 * <b>Inventory Management Systems:</b> Streamlining operations with efficient, user-friendly solutions.
 
@@ -21,7 +19,7 @@ I am passionate about creating innovative solutions that meet and exceed client 
 
 
 ### About Me
-
+***
 - <img width="16" src="https://www.freepnglogos.com/uploads/download/download-clipart-bangladesh-flag-png-clip-art-best-web-clipart-16.png" alt="Bangladesh" /> Origin: Bangladesh
 
 - <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Passionate about programming
@@ -36,8 +34,7 @@ I am passionate about creating innovative solutions that meet and exceed client 
 
 
 ### Tech Tools
-
-
+***
 | <p align="center"><img width="60" src="https://tinyurl.com/jxp4emzn" alt="MySQL" /> <br> MySQL </p> | <p align="center"><img width="60" src="https://tinyurl.com/y7n73v24" alt="PHP" /> <br> PHP </p> | <p align="center"><img width="60" src="https://tinyurl.com/2udxkcbv" alt="Laravel" /> <br> Laravel </p> | <p align="center"><img width="60" src="https://tinyurl.com/ywuxh5bd" alt="Livewire" /> <br> Livewire </p> |
 |----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | <p align="center"><img width="60" src="https://tinyurl.com/4zf266wk" alt="Inertia JS" /> <br> Inertia JS </p> | <p align="center"><img width="60" src="https://tinyurl.com/24sh3nb7" alt="JavaScript" /> <br> JavaScript </p> | <p align="center"><img width="60" src="https://tinyurl.com/4wrv5cpv" alt="ReactJS" /> <br> ReactJS </p> | <p align="center"><img width="60" src="https://tinyurl.com/h7d7fj8a" alt="HTML5" /> <br> HTML5 </p> |
@@ -46,8 +43,7 @@ I am passionate about creating innovative solutions that meet and exceed client 
 
 
 ### Demo Links
-
-
+***
 | Laravel Projects     |  URL        |
 | ------------------------- | ----------- |
 | Laravel Ecommerce       | <a href="https://tinyurl.com/2p9d45cf" target="_blank">Demo</a>       |
@@ -66,7 +62,7 @@ I am passionate about creating innovative solutions that meet and exceed client 
 
 
 ### Find Me On
-
+***
 <p align="center">
 <a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">
   <code><img alt="My Upwork" width="32" src="https://shorturl.at/cjBkS" /></code>
@@ -88,7 +84,7 @@ I am passionate about creating innovative solutions that meet and exceed client 
 </a>
 
 ### GitHub Stats
-
+***
 <p align="left">
   <img src="https://tinyurl.com/3c83kwps" alt="Top Languages" style="width: 43%;">
   <img src="https://tinyurl.com/yzu48kj5" alt="GitHub Streak" style="width: 50%;">
@@ -99,8 +95,7 @@ I am passionate about creating innovative solutions that meet and exceed client 
 
 
 ### Profile Visitor
-
-
+***
 <div align="center">
   <img src="https://profile-counter.glitch.me/mistersakil/count.svg" alt="Visitor Count">
 </div>
