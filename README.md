@@ -1,6 +1,4 @@
-<blockquote align="center" style="padding:10px">
-May Peace be upon you
-</blockquote>
+> :bulb: **May Peace be upon you**
 
 # `I'm Sakil Mahmud – Professional Web Designer and Developer`
 
