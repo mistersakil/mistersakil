@@ -4,9 +4,9 @@
 
 I am a seasoned web designer and developer with a strong presence on platforms like <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> and <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong> With professional experience dating back to 2016, I have honed my skills in programming and web technologies, delivering high-quality solutions for a wide range of projects.
 
-<div align="center">
-  <h3 style="color: red;">My Expertise Spans</h3>
-</div>
+
+###  My Expertise Spans
+
 
 
 
@@ -19,10 +19,8 @@ I am a seasoned web designer and developer with a strong presence on platforms l
 I am passionate about creating innovative solutions that meet and exceed client expectations, always striving to deliver exceptional results in every project.
 </blockquote>
 
-<br>
-<blockquote>
-<h4 align="center" style="padding:10px">About Me</h4>
-</blockquote>
+
+### About Me
 
 - <img width="16" src="https://www.freepnglogos.com/uploads/download/download-clipart-bangladesh-flag-png-clip-art-best-web-clipart-16.png" alt="Bangladesh" /> Origin: Bangladesh
 
@@ -37,10 +35,7 @@ I am passionate about creating innovative solutions that meet and exceed client 
 - 🏞️  <a href="https://tinyurl.com/2s4adeka" target="_blank">St. Martin's Island</a>is a favorite travel destination, admired for its beauty
 
 
-<br>
-<blockquote>
-<h4 align="center" style="padding:10px">Tech Tools</h4>
-</blockquote>
+### Tech Tools
 
 
 | <p align="center"><img width="60" src="https://tinyurl.com/jxp4emzn" alt="MySQL" /> <br> MySQL </p> | <p align="center"><img width="60" src="https://tinyurl.com/y7n73v24" alt="PHP" /> <br> PHP </p> | <p align="center"><img width="60" src="https://tinyurl.com/2udxkcbv" alt="Laravel" /> <br> Laravel </p> | <p align="center"><img width="60" src="https://tinyurl.com/ywuxh5bd" alt="Livewire" /> <br> Livewire </p> |
@@ -50,11 +45,8 @@ I am passionate about creating innovative solutions that meet and exceed client 
 | <p align="center"><img width="60" src="https://tinyurl.com/bd8faajr" alt="VS Code" /> <br> VS Code </p> | | | |
 
 
+### Demo Links
 
-<br>
-<blockquote>
-<h4 align="center" style="padding:10px">Demo Links</h4>
-</blockquote>
 
 | Laravel Projects     |  URL        |
 | ------------------------- | ----------- |
@@ -73,10 +65,8 @@ I am passionate about creating innovative solutions that meet and exceed client 
 | Testimonial slider using html css javascript      | <a href="https://mistersakil.github.io/testimonial-slider-using-html-css-js/" target="_blank">Demo</a>       |
 
 
-<br>
-<blockquote>
-<h4 align="center" style="padding:10px">Find Me On</h4>
-</blockquote>
+### Find Me On
+
 <p align="center">
 <a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">
   <code><img alt="My Upwork" width="32" src="https://shorturl.at/cjBkS" /></code>
@@ -97,10 +87,8 @@ I am passionate about creating innovative solutions that meet and exceed client 
 <code><img alt="My e-mail" width="32" src="https://shorturl.at/akvBM" /></code>
 </a>
 
-<br>
-<blockquote>
-<h4 align="center" style="padding:10px">GitHub Stats</h4>
-</blockquote>
+### GitHub Stats
+
 <p align="left">
   <img src="https://tinyurl.com/3c83kwps" alt="Top Languages" style="width: 43%;">
   <img src="https://tinyurl.com/yzu48kj5" alt="GitHub Streak" style="width: 50%;">
@@ -109,10 +97,9 @@ I am passionate about creating innovative solutions that meet and exceed client 
   <img src="https://tinyurl.com/fvc5v94w" alt="GitHub Stats" style="width: 95%;">
 </p>
 
-<br>
-<blockquote>
-<h4 align="center" style="padding:10px">Profile Visitor</h4>
-</blockquote>
+
+### Profile Visitor
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/mistersakil/count.svg" alt="Visitor Count">
