@@ -4,7 +4,10 @@
 
 I am a seasoned web designer and developer with a strong presence on platforms like <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> and <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong> With professional experience dating back to 2016, I have honed my skills in programming and web technologies, delivering high-quality solutions for a wide range of projects.
 
-<h4 style="padding:10px; color:indigo; background-color:orange; text-align:center">My Expertise Spans</h4>
+<div align="center">
+  <h3 style="color: darkred;">My Expertise Spans</h3>
+</div>
+
 
 
 * <b>Inventory Management Systems:</b> Streamlining operations with efficient, user-friendly solutions.
