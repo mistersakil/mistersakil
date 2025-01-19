@@ -61,20 +61,27 @@ I've been working with programming & web technology since 2012, and during this 
 </h1>  
 <p align="center">
 <a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">
-  <code><img alt="My Upwork" width="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqnkyc_F5grsdybby1oMzzMKg0NtTBtRfv27KM0jMp7ye9JhUl6s-5kinzKMYeQSvNn04&usqp=CAU" /></code>
+  <code><img alt="My Upwork" width="32" src="https://shorturl.at/cjBkS" /></code>
 </a>
 
 <a href="https://www.fiverr.com/mistersakil">
-  <code><img alt="My Fiverr" width="32" src="https://c0.klipartz.com/pngpicture/182/803/sticker-png-fiverr-logo-online-marketplace-graphic-design-design-text-logo-grass-entrepreneurship-sign-thumbnail.png" /></code>
+  <code><img alt="My Fiverr" width="32" src="https://shorturl.at/HN6pR" /></code>
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100009235375117">
-  <code><img alt="My linkedin" width="32" src="https://w7.pngwing.com/pngs/106/850/png-transparent-facebook-icon-logo-blue-square-symbol-social-facebook-blue-rectangle-logo.png" /></code>
+<a href="https://www.facebook.com/octapia.com.bd">
+  <code><img alt="My linkedin" width="32" src="https://shorturl.at/SGL57" /></code>
 </a>
 
 <a href="https://www.linkedin.com/in/mistersakil">
-  <code><img alt="My linkedin" width="32" src="https://th.bing.com/th/id/Rf856d3e21e2b8424a7f9b805f91c39bf?rik=iAF35zp5hTwH5Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2ff%2ff9%2fLinkedin_Shiny_Icon.svg%2f600px-Linkedin_Shiny_Icon.svg.png&ehk=2tliRYem%2brILmEvpk98L%2bTZGOK8XcB8xZ865AB5RwDQ%3d&risl=&pid=ImgRaw" /></code>
+  <code><img alt="My linkedin" width="32" src="https://shorturl.at/wtz69" /></code>
 </a>
 <a href="mailto:sakil.diu.cse@gmail.com">
-<code><img alt="My e-mail" width="32" src="https://th.bing.com/th/id/R2c94e80bc439f8ac26eed33063918083?rik=4GOohs1wTVXZbQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fb%2fb1%2fEmail_Shiny_Icon.svg%2f1024px-Email_Shiny_Icon.svg.png&ehk=lV8sLmfGMfJDgFFgydLDuGp1fJVLXowNb1kShmsPDB4%3d&risl=&pid=ImgRaw" /></code>
+<code><img alt="My e-mail" width="32" src="https://shorturl.at/akvBM" /></code>
 </a>
+
+
+
+<div align="center">
+  <h3 style="color: red;">Profile Visitor</h3>
+  <img src="https://profile-counter.glitch.me/mistersakil/count.svg" alt="Visitor Count">
+</div>
