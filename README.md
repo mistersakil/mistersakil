@@ -1,5 +1,5 @@
-<blockquote>
-<h5 align="center" style="padding:10px">May Peace be upon you</h5>
+<blockquote align="center" style="padding:10px">
+May Peace be upon you
 </blockquote>
 
 # `I'm Sakil Mahmud – Professional Web Designer and Developer`
