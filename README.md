@@ -40,6 +40,7 @@ Efficient under pressure, team-oriented, professional, polite, responsible, adap
 ## Professional Experience
 
 ### Sr. Software Engineer
+
 **iHelpBD** | 2017 – Present  
 - Built multiple SaaS products from idea to MVP to paying users.  
 - Architected multi-tenant applications with Laravel + React + Tailwind.  
@@ -47,6 +48,7 @@ Efficient under pressure, team-oriented, professional, polite, responsible, adap
 - Grew product adoption using lean growth strategies.
 
 ### Web Developer
+
 **Ingenious Technologies** | 2016 – 2017 (middle)  
 - Delivered complex web applications with clean architecture and scalability.  
 - Specialized in Laravel + React stacks, providing end-to-end solutions.  
@@ -57,15 +59,17 @@ Efficient under pressure, team-oriented, professional, polite, responsible, adap
 ## Selected Projects
 
 ### Full-Stack Developer | Laravel Inertia React | SaaS CRM Development
+
 Full-Stack Developer experienced in building SaaS-based CRM applications using Laravel, Inertia.js, React, and MySQL. Skilled in Docker for production-grade deployment, Git-based workflows, and delivering scalable multi-tenant architectures.
 
 ### Customized Contact Center | CRM with Dialer | API Integration
+
 Customized an open-source PHP, MySQL, and JavaScript-based Call Center Software Solution with dialer enhancements, real-time dashboard reporting, and 3rd party API integrations (SMS, Email, Salesforce, ERP) to improve multi-channel customer communication.
 
 ---
 
 ## Achievements
-- Launched multiple SaaS products with paying users.  
+
 - Delivered high-value freelance projects for international clients.  
 - Built and scaled content-driven platforms with organic growth strategies.  
 - Optimized multi-tenant architectures and CI/CD pipelines for speed and reliability.
