@@ -5,6 +5,8 @@
 
 Full-Stack Developer specializing in building scalable SaaS, CRM, and enterprise applications. Skilled in Laravel, React, MySQL, and Docker, with hands-on experience in eCommerce, Complaint Management, and Call Center solutions. Experienced in designing multi-tenant architectures, integrating APIs, and delivering secure, user-friendly business solutions from MVP to production.
 
+---
+
 ## Special Qualification
 
 Efficient under pressure, team-oriented, professional, polite, responsible, adaptable, organized, comfortable in fast-paced environments, and skilled at building trust and strong professional relationships.
@@ -72,9 +74,23 @@ Customized an open-source PHP, MySQL, and JavaScript-based Call Center Software 
 
 ---
 
-### Tech Tools
+## Personal Details
+
+- **Nationality:** Bangladeshi
+- **Gender:** Male  
+- **Height:** 1.6 m  
+- **Weight:** 64 kg  
+- **Marital Status:** Married
+- **Religion:** Islam  
+- **Permanent Address:** Umedpur, Parerhat, Indurkani, Pirojpur  
+- **Current Location:** Dhaka  
+- **Blood Group:** B+
+- **Hobby:** Traveling
 
 ---
+
+### Tech Tools
+
 
 | <p align="center"><img width="80" src="https://img.icons8.com/fluency/48/docker.png" alt="HTML5" /> <br> Docker </p> | <p align="center"><img width="80" src="https://tinyurl.com/jxp4emzn" alt="MySQL" /> <br> MySQL </p> | <p align="center"><img width="80" src="https://tinyurl.com/y7n73v24" alt="PHP" /> <br> PHP </p>                 | <p align="center"><img width="80" src="https://tinyurl.com/2udxkcbv" alt="Laravel" /> <br> Laravel </p>     | <p align="center"><img width="80" src="https://tinyurl.com/ywuxh5bd" alt="Livewire" /> <br> Livewire </p> | <p align="center"><img width="80" src="https://tinyurl.com/4zf266wk" alt="Inertia JS" /> <br> Inertia JS </p> | <p align="center"><img width="80" src="https://tinyurl.com/24sh3nb7" alt="JavaScript" /> <br> JavaScript </p> | <p align="center"><img width="80" src="https://tinyurl.com/4wrv5cpv" alt="ReactJS" /> <br> ReactJS </p> | 
 | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
