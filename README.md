@@ -1,108 +1,81 @@
-> :bulb: **May Peace be upon you**
+# Sakil Mahmud 🚀
 
-# `I'm Sakil Mahmud – Professional Web Designer and Developer`
-
-I am a seasoned web designer and developer with a strong presence on platforms like <strong><a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">Upwork.com</a></strong> and <strong><a href="https://www.fiverr.com/mistersakil">Fiverr.com</a></strong> With professional experience dating back to 2016, I have honed my skills in programming and web technologies, delivering high-quality solutions for a wide range of projects.
-
-### My Expertise Spans
+![Profile Photo](https://via.placeholder.com/150)  
+*Founder | SaaS Builder | High-Value Freelancer | Open Source Contributor*
 
 ---
 
-- <b>SAAS CRM:</b> This document outlines the design, development, and deployment plan for a Customer Relationship Management (CRM) platform similar to insightly. The platform will support marketing, sales, and service tools to help businesses manage relationships with their customers. <strong><a href="http://114.130.69.200/login" target="_blank">Demo</a></strong>. Currently working on it...
-
-- <b>Inventory Management Systems:</b> Streamlining operations with efficient, user-friendly solutions.
-
-- <b>E-commerce Development:</b> Building robust, scalable online stores that enhance user experience and drive sales.
-- <b>Dynamic Website Design and Development:</b> Crafting visually appealing, interactive websites tailored to client needs.
-
-<blockquote>
-I am passionate about creating innovative solutions that meet and exceed client expectations, always striving to deliver exceptional results in every project.
-</blockquote>
-
-### About Me
+## About Me
+Passionate about building scalable SaaS products, open-source tools, and delivering high-impact freelance solutions. I thrive at the intersection of code, business, and design — turning ideas into high-value digital experiences.
 
 ---
 
-- <img width="16" src="https://www.freepnglogos.com/uploads/download/download-clipart-bangladesh-flag-png-clip-art-best-web-clipart-16.png" alt="Bangladesh" /> Origin: Bangladesh
-
-- <img width="16" src="https://about.gitlab.com/images/blogimages/GitLab-Dev.png" alt="" /> Passionate about programming
-
-- 👩‍🏫 Enjoys web design and sharing knowledge
-
-- <img width="16" src="https://tinyurl.com/2wdjrp3a" alt="" /> Loveable programming language: PHP
-
-- <img width="20" src="https://tinyurl.com/36e2bpb5" alt="" /> Favorite programming language: JavaScript
-
-- 🏞️ <a href="https://tinyurl.com/2s4adeka" target="_blank">St. Martin's Island</a>is a favorite travel destination, admired for its beauty
-
-### Tech Tools
+## 🚀 Core Expertise
+- **SaaS & Product Development:** End-to-end product design, MVP launch, growth hacking.  
+- **Web Development:** Laravel, React, Inertia, Tailwind, Docker.  
+- **Automation & DevOps:** CI/CD pipelines, GitHub Actions, Docker-based deployments.  
+- **Open Source:** Contributing to libraries, creating tools that save time for devs.  
+- **Freelance & Consulting:** High-ticket client projects, MVP accelerators, product strategy.  
 
 ---
 
-| <p align="center"><img width="80" src="https://img.icons8.com/fluency/48/docker.png" alt="HTML5" /> <br> Docker </p> | <p align="center"><img width="80" src="https://tinyurl.com/jxp4emzn" alt="MySQL" /> <br> MySQL </p> | <p align="center"><img width="80" src="https://tinyurl.com/y7n73v24" alt="PHP" /> <br> PHP </p>                 | <p align="center"><img width="80" src="https://tinyurl.com/2udxkcbv" alt="Laravel" /> <br> Laravel </p>     | <p align="center"><img width="80" src="https://tinyurl.com/ywuxh5bd" alt="Livewire" /> <br> Livewire </p> | <p align="center"><img width="80" src="https://tinyurl.com/4zf266wk" alt="Inertia JS" /> <br> Inertia JS </p> | <p align="center"><img width="80" src="https://tinyurl.com/24sh3nb7" alt="JavaScript" /> <br> JavaScript </p> | <p align="center"><img width="80" src="https://tinyurl.com/4wrv5cpv" alt="ReactJS" /> <br> ReactJS </p> | 
-| --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| <p align="center"><img width="80" src="https://mlops-guide.github.io/MLOps/CICDML/ci-cd.png" alt="CI/CD" /> <br> CI/CD </p>   | <p align="center"><img width="80" src="https://tinyurl.com/mu76e5hd" alt="TailwindCSS" /> <br> TailwindCSS </p> | <p align="center"><img width="80" src="https://tinyurl.com/vbnftr3s" alt="Bootstrap" /> <br> Bootstrap </p> | <p align="center"><img width="80" src="https://tinyurl.com/bb96h6jj" alt="Git" /> <br> Git </p>           | <p align="center"><img width="80" src="https://tinyurl.com/wv457wp2" alt="ClickUP" /> <br> ClickUP </p>       | <p align="center"><img width="80" src="https://tinyurl.com/bd8faajr" alt="VS Code" /> <br> VS Code </p>       | <p align="center"><img width="80" src="https://tinyurl.com/3wxhtc2c" alt="cPanel" /> <br> cPanel </p>   | <p align="center"><img width="80" src="https://tinyurl.com/35fy6p9d" alt="CSS" /> <br> CSS3 </p> |
+## 💼 Professional Experience
 
+### Founder & Full-Stack Developer
+**Independent SaaS Projects** | 2021 – Present  
+- Built multiple SaaS products from idea to MVP to paying users.  
+- Architected multi-tenant applications with Laravel + React + Tailwind.  
+- Implemented CI/CD pipelines for automated deployments and testing.  
+- Grew product adoption using lean growth strategies.
 
-### Demo Links
-
----
-
-| Web Applications  | URL                                                             |
-| ----------------- | --------------------------------------------------------------- |
-| SAAS CRM | <a href="http://114.130.69.200/login" target="_blank">Demo</a> |
-
-| Responsive Web Design                  | URL                                                                                                                 |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Social media website using html,css,js | <a href="https://mistersakil.github.io/social-media-website-using-html-css-js/" target="_blank">Demo</a>            |
-| Grocery Landing Page Using HTML,CSS,JS | <a href="https://mistersakil.github.io/grocery-landing-page-using-html-css-js/" target="_blank">Demo</a>            |
-| Fast Food Restaurant using html,css,js | <a href="https://mistersakil.github.io/fast-food-restaurant-using-html-css-js/" target="_blank">Demo</a>            |
-| Call center solution using html,css,js | <a href="https://mistersakil.github.io/call-center-solution-using-html-css-js-by-octapia/" target="_blank">Demo</a> |
-
-| Mini Projects                                | URL                                                                                                    |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| Testimonial slider using html css javascript | <a href="https://mistersakil.github.io/testimonial-slider-using-html-css-js/" target="_blank">Demo</a> |
-
-### Find Me On
+### High-Value Freelance Developer
+**Remote / Global Clients** | 2018 – Present  
+- Delivered complex web applications with clean architecture and scalability.  
+- Specialized in Laravel + React stacks, providing end-to-end solutions.  
+- Improved client workflows through automation, dashboards, and reporting tools.  
 
 ---
 
-<p align="center">
-<a href="https://www.upwork.com/o/companies/~011335ddde8074293a/">
-  <code><img alt="My Upwork" width="32" src="https://shorturl.at/cjBkS" /></code>
-</a>
+## 🛠 Technical Skills
 
-<a href="https://www.fiverr.com/mistersakil">
-  <code><img alt="My Fiverr" width="32" src="https://shorturl.at/HN6pR" /></code>
-</a>
-
-<a href="https://www.facebook.com/octapia.com.bd">
-  <code><img alt="My linkedin" width="32" src="https://shorturl.at/SGL57" /></code>
-</a>
-
-<a href="https://www.linkedin.com/in/mistersakil">
-  <code><img alt="My linkedin" width="32" src="https://shorturl.at/wtz69" /></code>
-</a>
-<a href="mailto:sakil.diu.cse@gmail.com">
-<code><img alt="My e-mail" width="32" src="https://shorturl.at/akvBM" /></code>
-</a>
-
-### GitHub Stats
+| Frontend             | Backend           | Tools & DevOps       |
+|---------------------|-----------------|-------------------|
+| React, TailwindCSS  | PHP, Laravel     | Docker, GitHub Actions |
+| Inertia.js, Vite    | MySQL, Redis     | Linux, WSL, CI/CD Pipelines |
+| JavaScript, TypeScript | REST, GraphQL | Jira, Notion, Slack |
 
 ---
 
-<p align="left">
-  <img src="https://tinyurl.com/3c83kwps" alt="Top Languages" style="width: 43%;">
-  <img src="https://tinyurl.com/yzu48kj5" alt="GitHub Streak" style="width: 50%;">
-</p>
-<p align="left">
-  <img src="https://tinyurl.com/fvc5v94w" alt="GitHub Stats" style="width: 95%;">
-</p>
+## 📂 Selected Projects
 
-### Profile Visitor
+### 15 Seconds Beauty
+- YouTube channel & platform for natural beauty and green beauty content.  
+- Leveraged SEO, social engagement, and short-form video strategy to grow audience.
+
+### Multi-Tenant CRM System
+- Developed a multi-tenant CRM using Laravel, Inertia, React, and Tailwind.  
+- Automated tenant onboarding with isolated databases and secure architecture.
+
+### Open Source Contributions
+- Libraries, components, and tools to improve dev productivity.  
+- Active GitHub repos showcasing best practices in Laravel & React ecosystems.
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mistersakil/count.svg" alt="Visitor Count">
-</div>
+## 🏆 Achievements
+- Launched multiple SaaS products with paying users.  
+- Delivered high-value freelance projects for international clients.  
+- Built and scaled content-driven platforms with organic growth strategies.  
+- Optimized multi-tenant architectures and CI/CD pipelines for speed and reliability.
+
+---
+
+## 📫 Contact & Connect
+- GitHub: [github.com/sakilmahmud](https://github.com/sakilmahmud)  
+- LinkedIn: [linkedin.com/in/sakilmahmud](https://linkedin.com/in/sakilmahmud)  
+- Email: [info@bdcreation.com.bd](mailto:info@bdcreation.com.bd)  
+- Portfolio: [bdcreation.com.bd](https://bdcreation.com.bd)  
+
+---
+
+*This CV is optimized for GitHub as a README.md and reflects a premium personal brand for SaaS founders and high-value freelancers.*
