@@ -1,5 +1,5 @@
-| Sakil Mahmud <br> Keraniganj, Dhaka 1312 <br> Mobile: 01720092787 <br> Email: [sakil.diu.cse@gmail.com](mailto:sakil.diu.cse@gmail.com) | <img src="https://raw.githubusercontent.com/mistersakil/sakil-travelling/refs/heads/master/photos/mirinja%20valley%20-%2015%20dec%202024/mirinja-valley%20(4).jpg" width="200" height="200" style="border-radius:50%;" /> |
-| --- | --- |
+|Hey, this is Sakil — a Full-Stack Developer building scalable SaaS & CRM apps with Laravel, React, and Docker.| Sakil Mahmud <br> Keraniganj, Dhaka 1312 <br> Mobile: 01720092787 <br> Email: [sakil.diu.cse@gmail.com](mailto:sakil.diu.cse@gmail.com) | <img src="https://raw.githubusercontent.com/mistersakil/sakil-travelling/refs/heads/master/photos/mirinja%20valley%20-%2015%20dec%202024/mirinja-valley%20(4).jpg" width="150" height="100" style="border-radius:50%;" /> |
+| --- | --- | --- |
 
 ## Career Objective
 
