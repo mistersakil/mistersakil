@@ -1,7 +1,19 @@
-# Sakil Mahmud 🚀
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem;">
 
-![Profile Photo](https://via.placeholder.com/150)  
-*Founder | SaaS Builder | High-Value Freelancer | Open Source Contributor*
+  <div style="flex: 1;">
+    <p>
+      <strong style="font-size:30px">Sakil Mahmud</strong><br>
+      Keraniganj, Dhaka 1312<br>
+      Mobile: 01720092787<br>
+      Email: <a href="mailto:sakil.diu.cse@gmail.com">sakil.diu.cse@gmail.com</a>
+    </p>
+  </div>
+
+  <div style="flex: 0 0 250px; text-align: right;">
+    <img src="https://avatars.githubusercontent.com/u/15440498?v=4" alt="Profile Photo" width="150" height="150" style="border-radius: 50%;" />
+  </div>
+
+</div>
 
 ---
 
@@ -73,8 +85,6 @@ Passionate about building scalable SaaS products, open-source tools, and deliver
 ## 📫 Contact & Connect
 - GitHub: [github.com/sakilmahmud](https://github.com/sakilmahmud)  
 - LinkedIn: [linkedin.com/in/sakilmahmud](https://linkedin.com/in/sakilmahmud)  
-- Email: [info@bdcreation.com.bd](mailto:info@bdcreation.com.bd)  
-- Portfolio: [bdcreation.com.bd](https://bdcreation.com.bd)  
 
 ---
 
