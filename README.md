@@ -1,13 +1,9 @@
 |Hey, this is Sakil — a Full-Stack Developer building scalable SaaS & CRM apps with Laravel, React, and Docker.| Sakil Mahmud <br> Keraniganj, Dhaka 1312 <br> Mobile: 01720092787 <br> Email: [sakil.diu.cse@gmail.com](mailto:sakil.diu.cse@gmail.com) | <img src="https://raw.githubusercontent.com/mistersakil/sakil-travelling/refs/heads/master/photos/mirinja%20valley%20-%2015%20dec%202024/mirinja-valley%20(4).jpg" width="150" height="100" style="border-radius:50%;" /> |
 | --- | --- | --- |
 
-## Career Objective
+## Career Objective & Summary
 
-To grow as a Full-Stack Developer by building scalable SaaS, CRM, and enterprise apps using Laravel, React, MySQL, and Docker, while delivering secure and user-friendly business solutions.
-
-## Career Summary
-
-Full-Stack Developer skilled in Laravel, React, MySQL, and Docker. Experienced in SaaS, CRM, eCommerce, Complaint Management, and Call Center customization with multi-tenant architecture and API integrations.
+Full-Stack Developer specializing in building scalable SaaS, CRM, and enterprise applications. Skilled in Laravel, React, MySQL, and Docker, with hands-on experience in eCommerce, Complaint Management, and Call Center solutions. Experienced in designing multi-tenant architectures, integrating APIs, and delivering secure, user-friendly business solutions from MVP to production.
 
 ## Special Qualification
 
