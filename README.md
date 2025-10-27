@@ -1,10 +1,6 @@
-# Sakil Mahmud
-Keraniganj, Dhaka 1312  
-Mobile: 01720092787  
-Email: [sakil.diu.cse@gmail.com](mailto:sakil.diu.cse@gmail.com)
-
-<img src="https://avatars.githubusercontent.com/u/15440498?v=4" width="150" height="150" style="border-radius:50%; float:right;" />
-
+|  |  |
+| :--- | ---: |
+| Sakil Mahmud <br> Keraniganj, Dhaka 1312 <br> Mobile: 01720092787 <br> Email: [sakil.diu.cse@gmail.com](mailto:sakil.diu.cse@gmail.com) | <img src="https://avatars.githubusercontent.com/u/15440498?v=4" width="150" height="150" style="border-radius:50%;" /> |
 
 
 ## About Me
